@@ -24,7 +24,7 @@ The codebase focuses on practical experiment workflows including data integrity 
   conda activate <env_name>
   ```
 
-### Typical Workflow
+### Workflow
 
 - Validate raw EDF files and signal availability using `check_edfs.py` and `missing_signals.py`
 - Create or verify subject level splits using `make_split.py` and related split utilities
